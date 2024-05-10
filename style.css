@@ -1,0 +1,157 @@
+body {
+    font-family: "Lato", sans-serif !important;
+}
+
+.nav-link.active {
+    color: rgb(114, 174, 200) !important;
+}
+
+.nav-icons {
+    height: 18px;
+    width: 18px;
+    color: black;
+}
+
+.mt-5 {
+    margin-top: 5rem;
+}
+
+.mt-7 {
+    margin-top: 7rem;
+}
+
+.mt-10 {
+    margin-top: 10rem;
+}
+
+.mx-10 {
+    margin-left: 10rem;
+    margin-right: 10rem;
+}
+
+.mb-10 {
+    margin-bottom: 10rem;
+}
+
+.carousel-item > .container {
+    max-height: 90vh;
+}
+
+.carousel-item img {
+    height: 70vh;
+}
+
+.bg-light-blue {
+    background-color: #edf1f3;
+}
+
+#company-services svg {
+    height: 25px;
+    width: 25px;
+    fill: #72aec8;
+}
+
+#company-services h3 {
+    font-size: 21px;
+}
+
+#mobileProducts-carousel {
+    height: 80vh;
+}
+
+.rating > svg {
+    height: 15px;
+    width: 15px;
+    fill: #72aec8;
+}
+
+.icon-black svg {
+    color: black;
+    fill: black;
+}
+
+#review-carousel .carousel-control-prev {
+    margin-left: -10rem;
+    height: 40px;
+    width: 40px;
+}
+
+#review-carousel .carousel-control-next {
+    margin-right: -10rem;
+    height: 40px;
+    width: 40px;
+}
+
+.quotation svg {
+    color: #edf1f3;
+    fill: #edf1f3;
+}
+
+.review-item blockquote {
+    font-size: 35px;
+    font-weight: 300;
+    text-align: center;
+}
+
+#instagram .card img {
+    height: 300px;
+}
+
+.social-links svg {
+    height: 25px;
+    width: 25px;
+    fill: #d7dddf;
+    color: #d7dddf;
+}
+
+.footer-menu p {
+    color: #aeaeae;
+}
+
+.menu-item a {
+    text-decoration: none;
+    color: black;
+    font-size: 14px;
+}
+
+.subscribe-btn {
+    background-color: rgb(112, 171, 196) !important;
+}
+
+.cursor-exit {
+    cursor: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='20' height='20' viewBox='0 0 20 20'%3E%3Cpath fill='%23000' d='M20 1l-1-1-9 9-9-9-1 1 9 9-9 9 1 1 9-9 9 9 1-1-9-9'/%3E%3C/svg%3E"), pointer;
+}
+
+.search-submit svg {
+    height: 25px;
+    width: 25px;
+}
+
+.modal-dialog {
+    max-width: 1000px;
+}
+
+.cat-list-item {
+    display: inline-block;
+    margin-bottom: 0;
+    letter-spacing: 0.015em;
+    font-size: 2em;
+}
+
+.cat-list-item a {
+    text-decoration: none;
+    color: black;
+}
+
+.cat-list-item a:hover {
+    text-decoration: underline;
+    color: rgb(44, 133, 172);
+}
+
+.cat-list-item::after {
+    content: "/";
+    padding: 0 5px;
+    line-height: 1;
+    color: rgba(0, 0, 0, 0.5);
+    vertical-align: text-top;
+}
